@@ -1,0 +1,1 @@
+# obsidian-simple-search-plugin
