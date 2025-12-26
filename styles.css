@@ -51,8 +51,8 @@
 
 /* Highlighted search term */
 .search-highlight {
-    color: var(--text-accent);
-    background-color: var(--text-accent-hover);
+    color: #ff0000;
+    background-color: rgba(255, 255, 0, 0.4);
     padding: 1px 2px;
     border-radius: 2px;
     font-weight: 600;
